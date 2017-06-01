@@ -6,8 +6,8 @@ var ctx = canvas.getContext('2d');
 // pongo un tamaño a la pantalla de todo lo que se vea en nuestro navegador.
 //canvas.setAttribute('height', window.innerHeight);
 //canvas.setAttribute('width', window.innerWidth);
-canvas.setAttribute('height', "100px");
-canvas.setAttribute('width', "100px");
+canvas.setAttribute('height', "300px");
+canvas.setAttribute('width', "300px");
 
 
 //con fillStyle crea el color de relleno.

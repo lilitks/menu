@@ -1,8 +1,22 @@
 * {
+  border: 1px solid #ccc;
   box-sizing: border-box;
 }
 
 body {
   margin: 0;
   font-family: sans-serif;
+}
+
+.place-for-canvas {
+  width: 50vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.canvas1 {
+
+
 }
